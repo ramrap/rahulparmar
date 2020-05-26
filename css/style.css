@@ -9,7 +9,10 @@
   opacity: 0.7;
   cursor: pointer;
 }
+.mail {
+  display: block;
 
+}
 .bg-black {
   color: white;
   background: black;
